@@ -1,0 +1,76 @@
+body{
+    background-color: #0cca4bf1;
+}
+    h1{
+        font-size:60;
+        color:azure;
+        text-align: center;
+    }
+    ul{
+        color:azure;
+        font-size:25;
+    }
+    ul2{
+        color:azure;
+        font-size:25;
+        position:relative; top:-10px; left:100px;
+    }
+    ul3{
+        color:azure;
+        font-size:23;
+        position:relative; top: 10px; left:150px
+    }
+    #href1{
+        color:azure;
+        position:relative; top: 50px; left:60px;
+    }
+    #href2{
+        color:azure;
+        position:relative; top: 30px; left: 180px;
+    }
+    h9{
+        color:azure;
+        font-size:60;
+        position:relative; top: 10px; left: 700px;
+    }
+    h10{
+        color:azure;
+        font-size: 30;
+        position:relative; top:100px; left: -200px
+    }
+    ol5{
+        color:azure;
+        
+        position: relative;top:100px;left:100;
+    }
+    #href3{
+        color:azure;
+        position:relative; top: 110px; left:60px;
+    }
+    #href4{
+        color:azure;
+        position:relative; top: 91px; left:180px;
+    }
+    h23{
+        color:azure;
+        position:relative; top:20px; left: 700px;
+        font-size: 60;
+    }
+    h21{
+        color:azure;
+        position:relative; top:100px; left:-1700px;
+        font-size: 30
+    }
+    ol9{
+        color:azure;
+        position:relative; top:100px; left:-1300px;
+        font-size: 17
+    }
+    #href5{
+        position:relative; top:150px; left: -1300;
+        font-size:20
+    }
+    #href6{
+        position:relative; top:127px; left:-1100;
+        font-size: 20
+    }
